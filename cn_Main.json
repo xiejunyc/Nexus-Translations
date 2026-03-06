@@ -150,7 +150,6 @@
 		"((MoveAutoRun))": "自动奔跑",
 		"((MoveWalk))": "行走",
 		"((MoveJump))": "跳跃",
-		"((MoveSwimUp))": "向上游",
 		"((MoveSwimDown))": "向下游",
 		"((MoveAboutFace))": "后转",
 		"((SkillWeaponSwap))": "切换武器",
@@ -319,4 +318,5 @@
 		"((GearLoadout9))": "装备模板9"
 	}
 }
+
 
